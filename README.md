@@ -14,6 +14,8 @@
   - [CI/CD](#cicd)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
+  - [Testing](#testing)
+    - [Unit Testing](#unit-testing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -95,8 +97,12 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
  
 ## Kubernetes
 
-- [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) maintained by Caicloud\
+- [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) maintained by Caicloud
 
-## Unit test
-- [Springboot-backend-test](https://github.com/rejector7/unit_test_demo)
-- [Vue-frontend-test](https://github.com/DHPO/Vue-test-demo)
+## Testing
+
+### Unit Testing
+
+- Demos
+  - [Springboot-backend-test](https://github.com/rejector7/unit_test_demo)
+  - [Vue-frontend-test](https://github.com/DHPO/Vue-test-demo)
