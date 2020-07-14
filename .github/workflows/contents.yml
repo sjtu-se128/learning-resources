@@ -1,0 +1,26 @@
+name: Contents
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install -g doctoc
+    - run: doctoc .
+    - name: Commit
+      run: |
+        git config --global user.name rudeigerc
+        git config --global user.email rudeigerc@gmail.com
+        git commit -am 'action: generate table of contents'
+        git push
