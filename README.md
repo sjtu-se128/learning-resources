@@ -1,3 +1,7 @@
+# Learning Resources
+
+This repository aims at helping students of SE128 course of Shanghai Jiao Tong University with various learning materials related to development.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -18,10 +22,6 @@
     - [Unit Testing](#unit-testing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# Learning Resources
-
-This repository aims at helping students of SE128 course of Shanghai Jiao Tong University with various learning materials related to development.
 
 ## Prototype
 
