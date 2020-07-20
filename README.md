@@ -15,10 +15,12 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 - [Database](#database)
 - [Authentication and Authorization](#authentication-and-authorization)
 - [CI/CD](#cicd)
+- [Microservices](#microservices)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
 - [Testing](#testing)
   - [Unit Testing](#unit-testing)
+- [Monitoring](#monitoring)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
