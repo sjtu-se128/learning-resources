@@ -74,19 +74,28 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 ## Authentication and Authorization
 
 - [HTTP authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
-- Cookie
+- Session
   - [Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - JSON Web Token
   - [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
   - [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/#User-Authentication-and-Authorization-on-Spring-Boot)
 - OAuth
-  - [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
+  - [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/) (Client)
+- [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
 
 ## CI/CD
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Create a CI/CD pipeline for Amazon ECS with GitHub Actions and AWS CodeBuild Tests](https://aws.amazon.com/cn/blogs/containers/create-a-ci-cd-pipeline-for-amazon-ecs-with-github-actions-and-aws-codebuild-tests/)
 - [GitHub Packages Documentation](https://docs.github.com/en/packages)
+- Demos
+  - [sjtu-se128/github-actions-java-demo](https://github.com/sjtu-se128/github-actions-java-demo)
+
+## Microservices
+
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+- [What is event-driven architecture?](https://www.redhat.com/en/topics/integration/what-is-event-driven-architecture)
+- [Spring Cloud](https://spring.io/projects/spring-cloud)
 
 ## Docker
  
@@ -102,6 +111,13 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 
 ### Unit Testing
 
+- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+- [Getting Started | Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
 - Demos
-  - [Springboot-backend-test](https://github.com/rejector7/unit_test_demo)
-  - [Vue-frontend-test](https://github.com/DHPO/Vue-test-demo)
+  - [rejector7/unit_test_demo](https://github.com/rejector7/unit_test_demo) (backend/spring-boot)
+  - [DHPO/Vue-test-demo](https://github.com/DHPO/Vue-test-demo) (frontend/vue)
+
+## Monitoring
+
+- [Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Grafana](https://grafana.com/docs/grafana/latest/)
