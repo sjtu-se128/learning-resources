@@ -6,21 +6,22 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Prototype](#prototype)
-- [Git](#git)
-- [API Design](#api-design)
-- [Code Review](#code-review)
-  - [Programming Style](#programming-style)
-- [Web Scraping](#web-scraping)
-- [Database](#database)
-- [Authentication and Authorization](#authentication-and-authorization)
-- [CI/CD](#cicd)
-- [Microservices](#microservices)
-- [Docker](#docker)
-- [Kubernetes](#kubernetes)
-- [Testing](#testing)
-  - [Unit Testing](#unit-testing)
-- [Monitoring](#monitoring)
+- [Learning Resources](#learning-resources)
+  - [Prototype](#prototype)
+  - [Git](#git)
+  - [API Design](#api-design)
+  - [Code Review](#code-review)
+    - [Programming Style](#programming-style)
+  - [Web Scraping](#web-scraping)
+  - [Database](#database)
+  - [Authentication and Authorization](#authentication-and-authorization)
+  - [CI/CD](#cicd)
+  - [Microservices](#microservices)
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+  - [Testing](#testing)
+    - [Unit Testing](#unit-testing)
+  - [Monitoring](#monitoring)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -84,6 +85,8 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 - OAuth
   - [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/) (Client)
 - [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
+- Demos
+  - [Spring Security Demo](https://github.com/zilinglius/wl)
 
 ## CI/CD
 
