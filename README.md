@@ -87,6 +87,43 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 - Demos
   - [Spring Security Demo](https://github.com/zilinglius/wl)
 
+## Testing
+
+### Unit Testing
+
+- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
+- [Getting Started | Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
+- Demos
+  - [rejector7/unit_test_demo](https://github.com/rejector7/unit_test_demo) (backend/spring-boot)
+  - [DHPO/Vue-test-demo](https://github.com/DHPO/Vue-test-demo) (frontend/vue)
+
+### Performance Testing
+
+- [JMeter](https://jmeter.apache.org/)
+- Demos
+  - [sjtu-se128/performance-test](https://github.com/sjtu-se128/performance-test)
+
+## Monitoring
+
+- [Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Grafana](https://grafana.com/docs/grafana/latest/)
+- Demos
+  - [sjtu-se128/performance-test](https://github.com/sjtu-se128/performance-test)
+
+## Logging
+
+- [ELK Stack](https://www.elastic.co/what-is/elk-stack)
+  - Elasticsearch
+  - Logstash
+  - Kibana
+  - [Elasticsearch, Logstash, Kibana (ELK) Docker image documentation](https://elk-docker.readthedocs.io/)
+- [TICK Stack](https://www.influxdata.com/time-series-platform/)
+  - Telegraf
+  - InfluxDB
+  - Chronograf
+  - Kapacitor
+- [fluent/fluentd](https://docs.fluentd.org/)
+
 ## CI/CD
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
@@ -110,18 +147,5 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 ## Kubernetes
 
 - [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) maintained by Caicloud
-
-## Testing
-
-### Unit Testing
-
-- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
-- [Getting Started | Testing the Web Layer](https://spring.io/guides/gs/testing-web/)
-- Demos
-  - [rejector7/unit_test_demo](https://github.com/rejector7/unit_test_demo) (backend/spring-boot)
-  - [DHPO/Vue-test-demo](https://github.com/DHPO/Vue-test-demo) (frontend/vue)
-
-## Monitoring
-
-- [Prometheus](https://prometheus.io/docs/introduction/overview/)
-- [Grafana](https://grafana.com/docs/grafana/latest/)
+- [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+- [Istio Handbook](https://www.servicemesher.com/istio-handbook/)
