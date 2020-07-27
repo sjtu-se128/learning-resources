@@ -14,13 +14,15 @@ This repository aims at helping students of SE128 course of Shanghai Jiao Tong U
 - [Web Scraping](#web-scraping)
 - [Database](#database)
 - [Authentication and Authorization](#authentication-and-authorization)
+- [Testing](#testing)
+  - [Unit Testing](#unit-testing)
+  - [Performance Testing](#performance-testing)
+- [Monitoring](#monitoring)
+- [Logging](#logging)
 - [CI/CD](#cicd)
 - [Microservices](#microservices)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
-- [Testing](#testing)
-  - [Unit Testing](#unit-testing)
-- [Monitoring](#monitoring)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
